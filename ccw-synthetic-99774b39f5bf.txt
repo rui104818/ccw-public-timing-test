@@ -1,0 +1,8 @@
+# CLOUD CREDENTIAL WATCH / CONTROLLED PUBLIC TEST
+# SYNTHETIC ONLY. NEVER ISSUED BY ANY PROVIDER. NO CLOUD RESOURCES.
+# Database host is intentionally invalid. Do not use these values.
+experiment_id = "99774b39f5bf473fb00fc6ae310d9285"
+cloud_access_key_id = "CCWyYda2bndeSNKeXOE5"
+cloud_secret_key = "lRXuZOfNCEzNEGSf22oQrB5wScjUXrX0HugsqwyK"
+api_key = "eb1rrE28j3mcpB8FGLJRrv5t3WPGfSSL"
+database_url = "postgresql://ccw_99774b:Yy7gp7KQt2E3UujDPM8UhZTG@database.invalid:5432/ccw_test"
